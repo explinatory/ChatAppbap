@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967107381073",
+    "firebase_url": "https://chatappbap.firebaseio.com",
+    "project_id": "chatappbap",
+    "storage_bucket": "chatappbap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967107381073:android:3fb73f92dbf0838c",
+        "android_client_info": {
+          "package_name": "com.example.sony.chatappbap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967107381073-aas9v3ggv0ndesquoubh3ij9f9qjaql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sony.chatappbap",
+            "certificate_hash": "9159fcb498d50b3be3b96ba69c147c06fef8596a"
+          }
+        },
+        {
+          "client_id": "967107381073-pl8qpqt5cfn6tqchs3sqq4oo737q4a56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVD3DyrfSbu57mITS4O4sMX3NcPdMOhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967107381073-pl8qpqt5cfn6tqchs3sqq4oo737q4a56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
